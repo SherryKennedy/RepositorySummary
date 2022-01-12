@@ -1,4 +1,4 @@
-:wave: Hello! 
+
 # Repository Summary with descriptions.
 
 ### [Analysis of Weather vs New York City Stock Exchange](https://github.com/SherryKennedy/Weather_vs_NYSE_Analysis): 
