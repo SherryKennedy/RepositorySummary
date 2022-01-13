@@ -46,3 +46,5 @@ Financial analysis reviewing profit increase and decreases.
 ### [Election Analysis](https://github.com/SherryKennedy/Python_Financial_Analysis_Election_Analysis/tree/main/PyPoll)
 Election results analysis. 
 
+### [Stock Market Analysis](https://github.com/SherryKennedy/vba-DataAnalysis-StockMarket)
+Data analysis for multiple year stock market data. Uses excel and vba coding. Shows conditional formatting. Summary page.
