@@ -28,5 +28,13 @@ Sample Analytics web design dashboard for weather analysis. Menu and visualizati
 ### [Weather in Hawaii Analysis](https://github.com/SherryKennedy/sqlalchemy_challenge):
 Weather data analysis from Hawaii station. Created a flask-api to review temperature and rainfall for a specific period of time to vacation in Hawaii. (sqlAlchemy)
 
-### [Weather Analysis api](https://github.com/SherryKennedy/WeatherVacationAnalysis_api)
+### [Weather Analysis to Review Vacation Spots](https://github.com/SherryKennedy/WeatherVacationAnalysis_api)
 Weather vacation analysis utilizes the OpenWeatherMap API and the citipy library. Analyzes the weather relationship for cities using geo coordinates. Uses jupyter-gmaps and the Google Places API for weather based vacation references.
+
+### [Employee Database Modelling ERD](https://github.com/SherryKennedy/sql_challenge)
+Data Modelling and Engineering, using ERD diagrams, and sqlalchemy for an employee database. SQL.
+
+### [Pharmaceutical Analysis on Mice](https://github.com/SherryKennedy/Pharmaceutical-Analysis)
+Analysis of some Pharmaceutical regimens used on mice.
+
+
