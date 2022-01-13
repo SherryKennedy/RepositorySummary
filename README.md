@@ -1,5 +1,5 @@
 
-# Repository Summary with descriptions.
+# Review Repositories
 
 ### [Analysis of Weather vs New York City Stock Exchange](https://github.com/SherryKennedy/Weather_vs_NYSE_Analysis): 
 Analysis of maximum temperature vs 23 New York City stock exchanges where the HQ is in NYC. 
