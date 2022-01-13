@@ -22,3 +22,11 @@ Built a web application that scrapes various websites for data related to the Mi
 ### [Trends of CO2 Emissions vs Gas Prices from 1990 to 2020](https://github.com/SherryKennedy/ETL-Project):
 Quick Data Anlaysis of CO2 Emmissions (Our World in Data) vs Gas Prices (Statistics Canada). Project explanation of ETL process. Group Project. 
 
+### [Analytics Web Design for Weather Data](https://github.com/SherryKennedy/Web-Design-Challenge):
+Sample Analytics web design dashboard for weather analysis. Menu and visualizations. [Weather Analytics Dashboard](https://sherrykennedy.github.io/Web-Design-Challenge/index.html)
+
+### [Weather in Hawaii Analysis](https://github.com/SherryKennedy/sqlalchemy_challenge):
+Weather data analysis from Hawaii station. Created a flask-api to review temperature and rainfall for a specific period of time to vacation in Hawaii. (sqlAlchemy)
+
+### [Weather Analysis api](https://github.com/SherryKennedy/WeatherVacationAnalysis_api)
+Weather vacation analysis utilizes the OpenWeatherMap API and the citipy library. Analyzes the weather relationship for cities using geo coordinates. Uses jupyter-gmaps and the Google Places API for weather based vacation references.
