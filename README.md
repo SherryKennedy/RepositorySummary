@@ -37,4 +37,12 @@ Data Modelling and Engineering, using ERD diagrams, and sqlalchemy for an employ
 ### [Pharmaceutical Analysis on Mice](https://github.com/SherryKennedy/Pharmaceutical-Analysis)
 Analysis of some Pharmaceutical regimens used on mice.
 
+### [City School Analysis](https://github.com/SherryKennedy/Pandas_School_Analysis)
+All city schools data analysis. Type of school, resources, math and reading scores. Passing scores.
+
+### [Financial Analysis](https://github.com/SherryKennedy/Python_Financial_Analysis_Election_Analysis/tree/main/PyBank)
+Financial analysis reviewing profit increase and decreases. 
+
+### [Election Analysis](https://github.com/SherryKennedy/Python_Financial_Analysis_Election_Analysis/tree/main/PyPoll)
+Election results analysis. 
 
