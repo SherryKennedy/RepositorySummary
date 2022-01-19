@@ -1,6 +1,11 @@
 
 # Review Repositories
 
+### [NY Citi Bike Analysis github](https://github.com/SherryKennedy/Citi_Bike_Analysis0)
+View the [Tableau Analysis](https://public.tableau.com/app/profile/sherry.kennedy/viz/CitiBikeAnalyticsFebToAug2020/CitiBikeAnalyticsFebAug2020)
+This shows analysis from Feb-Aug 2020 during the Pandemic. (Limited the data to these months due to public tableau space.)  
+
+
 ### [Analysis of Weather vs New York City Stock Exchange](https://github.com/SherryKennedy/Weather_vs_NYSE_Analysis): 
 Analysis of maximum temperature vs 23 New York City stock exchanges where the HQ is in NYC. 
 Specifically looking at closing price and volume. 
