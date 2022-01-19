@@ -1,8 +1,8 @@
 
 # Review Repositories
 
-### [NY Citi Bike Analysis github](https://github.com/SherryKennedy/Citi_Bike_Analysis0)
-View the [Tableau Analysis](https://public.tableau.com/app/profile/sherry.kennedy/viz/CitiBikeAnalyticsFebToAug2020/CitiBikeAnalyticsFebAug2020)
+### [NYC Citi Bike Analysis (github)](https://github.com/SherryKennedy/Citi_Bike_Analysis0)
+View the full [Tableau Analysis](https://public.tableau.com/app/profile/sherry.kennedy/viz/CitiBikeAnalyticsFebToAug2020/CitiBikeAnalyticsFebAug2020)
 This shows analysis from Feb-Aug 2020 during the Pandemic. (Limited the data to these months due to public tableau space.)  
 
 
