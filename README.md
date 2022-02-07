@@ -27,7 +27,7 @@ Deployed on github : [Belly Button Biodiversity](https://sherrykennedy.github.io
 ### [Mission to Mars: Mars News](https://github.com/SherryKennedy/web-scraping):
 Built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. Stores the data in a Mongo database. Uses Flask, Beautiful Soup, Splinter, Python, Bootstrap, MongoDB.
 
-### [Trends of CO2 Emissions vs Gas Prices from 1990 to 2020](https://github.com/SherryKennedy/ETL-Project):
+### [Trends of CO2 Emissions vs Gas Prices from 1990 to 2020](https://github.com/SherryKennedy/ETL-CO2_vs_Gas_Prices):
 Quick Data Anlaysis of CO2 Emmissions (Our World in Data) vs Gas Prices (Statistics Canada). Project explanation of ETL process. Group Project. 
 
 ### [Analytics Web Design for Weather Data](https://github.com/SherryKennedy/Web-Design-Challenge):
