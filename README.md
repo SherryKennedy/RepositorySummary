@@ -1,5 +1,5 @@
 
-# Review Repositories
+# Data Analysis Portfolio
 
 ### [Credit Risk Evaluation: Supervised Learning](https://github.com/SherryKennedy/Credit_Risk_Evaluation_Supervised_Learning)
 Supervised Machine Learning to predict Credit Risk. Review of Logistic Regression and Random Forest Classifier with and without scaling.
