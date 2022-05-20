@@ -2,7 +2,7 @@
 # Data Science Analysis Portfolio
 
 ### [Stroke Prediction Model](https://github.com/SherryKennedy/Stroke_Prediction_Model)
-Group project: Random Forest algorithm (other algorithms were tested as well) from scikit-learn library to help predict stroke based on 10 input features. We will use Flask as it is a very light web framework to handle the POST requests.
+Group project: Random Forest algorithm (other algorithms were tested as well) from scikit-learn library to help predict stroke based on 10 input features. Flask was used as it is a very light web framework to handle the POST requests.
 Group modelling process [Stroke Model](https://github.com/hiamdebsi/ML-Stroke-Prediction)
 Created the app in Heroku [Stroke Predictor](https://stroke-predictor.herokuapp.com/)
 
